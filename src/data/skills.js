@@ -5,7 +5,7 @@ export const skills = [
       "Python",
       "JavaScript",
       "C++",
-      "Java",
+      
       "SQL",
     ],
   },
@@ -25,8 +25,7 @@ export const skills = [
     category: "Backend",
     items: [
       "FastAPI",
-      "Django",
-      "Django REST Framework",
+    
       "REST API",
     ],
   },
@@ -38,7 +37,7 @@ export const skills = [
       "Pandas",
       "Matplotlib",
       "Scikit-learn",
-      "PyTorch",
+      
     ],
   },
 
@@ -48,7 +47,7 @@ export const skills = [
       "Git",
       "GitHub",
       "VS Code",
-      "Android Studio",
+      
       "MySQL",
     ],
   },
