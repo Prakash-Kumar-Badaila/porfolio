@@ -14,7 +14,7 @@ import Certifications from "./pages/Certifications";
 import Services from "./pages/Services";
 import Blog from "./pages/Blog";
 import Contact from "./pages/Contact";
-import NotFound from "./pages/NotFound";
+// import NotFound from "./pages/NotFound";
 
 function App() {
   return (
